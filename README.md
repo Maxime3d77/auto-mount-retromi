@@ -3,12 +3,12 @@
 _This is a dirty solution; but works. A good approach would be to use 
 __libudev__._
 
-Mount point is /home/pi/printer_data/gcodes/USB
+Mount point is /home/pi/RetroPie
 
 ## Install
 ```
-git clone https://github.com/Maxime3d77/automount-usb-klipper.git
-cd automount-usb-klipper/
+git clone https://github.com/Maxime3d77/auto-mount-retromi.git
+cd auto-mount-retromi/
 sudo ./CONFIGURE.sh
 ```
 
